@@ -7,5 +7,6 @@ These are a few of my favorite things:
 - Whiskers on cute animals
 - Bright copper kettles
 - Warm woolen mittens
+- seven
 - Not editing directly on GitHub
-- pupps 
+- pupps
