@@ -8,5 +8,6 @@ These are a few of my favorite things:
 - add turtles
 - Bright copper kettles
 - Warm woolen mittens
+- seven
 - Not editing directly on GitHub
-- pupps 
+- pupps
